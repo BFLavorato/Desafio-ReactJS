@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300;1,500&display=swap");
+
+
 *{
     padding: 0%;
     margin: 0%;
@@ -21,12 +24,25 @@ nav ul {
 li {
     list-style-type: none;
     
-    
 }
 a {
     text-decoration: none;
     color: black;
     font-size: large;
-    padding-right: 175px;
+    padding-right: 125px;
     padding-top: 4px;
+}
+.cart {
+    padding-right: 15px;
+    padding-top: 2px;
+}
+.icon {
+    padding-right: 300px;
+    padding-top: 2px;}
+
+p {
+    margin-top: 35px;
+    text-align: center;
+    font-family: "Nunito";
+    
 }
